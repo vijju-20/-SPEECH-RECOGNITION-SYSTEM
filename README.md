@@ -31,4 +31,5 @@
 #The recognize_google() method on it to access the Google web speech API and turn spoken language into text. 
 #The recognize_google() requires an argument audio_data otherwise it will return an error.
 #Recognize the speech
-#Capture the error and print the error message       
+#Capture the error and print the error message    
+# I WAS NOT ABLE TO UPLOAD THE RECORDING
